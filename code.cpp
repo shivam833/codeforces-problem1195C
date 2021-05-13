@@ -16,7 +16,6 @@
 #define            vl            vector<ll>
 using namespace std;
 const ll mod= 1000000007;
-const ll N =1000005;
 
 
 
