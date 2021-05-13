@@ -51,7 +51,7 @@ void solve()
 
 int main()
 {
-    // solution by shivam sood
+    
  
 
  	solve();
