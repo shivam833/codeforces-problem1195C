@@ -43,7 +43,7 @@ void solve()
       lr2=cr2;
    }
    cout<<max(lr1,lr2)<<"\n";
-cout<<"hello\n";
+cout<<"hello";
 
 
 }
