@@ -16,7 +16,7 @@
 #define            vl            vector<ll>
 using namespace std;
 const ll mod= 1000000007;
-
+const ll N=1000005;
 
 
 void solve()
@@ -43,7 +43,6 @@ void solve()
       lr2=cr2;
    }
    cout<<max(lr1,lr2)<<"\n";
-cout<<"hello  ";
 
 
 
