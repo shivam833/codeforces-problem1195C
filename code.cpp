@@ -46,6 +46,7 @@ void solve()
 cout<<"hello  ";
 
 
+
 }
 
 int main()
